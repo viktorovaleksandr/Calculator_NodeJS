@@ -1,6 +1,5 @@
 const calculator = require('./calculator');
 
-
 calculator.set(10)
 console.log(calculator.add(2)) // 12
 console.log(calculator.sub(5)) // 7
